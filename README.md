@@ -2,7 +2,7 @@
 
 __Data__: 404 290 pairs of questions
 
-__Task__: predict does a pair of questions have the same intent
+__Task__: predict whether a pair of questions have the same intent
 
 __Evaluation__: Log Loss (Binary Cross-entropy)
 
